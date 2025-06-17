@@ -94,4 +94,3 @@ ii.
 iii. 
 Build the model on train set and predict the values on test set 
 Build the confusion matrix and calculate the accuracy 
-support@intellipaat.com- +91-7022374614 - US: 1-800-216-8930 (Toll Free) 
